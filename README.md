@@ -2,7 +2,7 @@
 
 Harvard AM207 Final Project
 
-Nested Bayesian model fitting and model selection for exoplanet radial velocity data
+Nested Bayesian *model fitting* and *model selection* for exoplanet radial velocity data
 
 Read the Report [here](./AM207_GR_MARION_DIERICKX_XINYI_GUO_PHILIP_MOCZ_PROJECT.pdf)
 
